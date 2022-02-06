@@ -1,4 +1,4 @@
-package com.jaroslawcielecki.pizza.pizza
+package com.jaroslawcielecki.pizza
 
 import io.flutter.embedding.android.FlutterActivity
 
