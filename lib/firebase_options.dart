@@ -45,7 +45,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyCAwDRd8oNUdsBLkKOOQ41Krha1-ROpTns',
-    appId: '1:471583748260:android:7e8298a4d4a7bbf6c3b631',
+    appId: '1:471583748260:android:362ba05fbb837153c3b631',
     messagingSenderId: '471583748260',
     projectId: 'picka-c02d1',
     storageBucket: 'picka-c02d1.appspot.com',

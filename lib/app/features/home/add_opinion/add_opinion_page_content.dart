@@ -28,7 +28,7 @@ class _AddOpinionPageContentState extends State<AddOpinionPageContent> {
           children: [
             TextField(
               decoration: const InputDecoration(
-                hintText: 'Podaj nazwe potrawy',
+                hintText: 'Podaj nazwę Restauracji',
               ),
               onChanged: (newValue) {
                 setState(() {
@@ -38,7 +38,7 @@ class _AddOpinionPageContentState extends State<AddOpinionPageContent> {
             ),
             TextField(
               decoration: const InputDecoration(
-                hintText: 'Podaj nazwę Restauracji',
+                hintText: 'Podaj nazwę Potrawy',
               ),
               onChanged: (newValue) {
                 setState(() {
@@ -69,7 +69,7 @@ class _AddOpinionPageContentState extends State<AddOpinionPageContent> {
                       });
                       widget.onSave();
                     },
-              child: Text('Dodaj'),
+              child: const Text('Dodaj'),
             )
           ],
         ),
