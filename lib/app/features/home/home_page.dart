@@ -23,7 +23,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Center(child: Text('Najlepsza restauracja w Polsce')),
+        title: const Center(child: Text('Najlepsze restauracje na Świecie')),
       ),
       body: Builder(builder: (context) {
         if (currentIndex == 0) {

@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1737450578",
+    "project_id": "wydatki-81e67",
+    "storage_bucket": "wydatki-81e67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1737450578:android:d2a641bdcd93491a2c6b8b",
+        "android_client_info": {
+          "package_name": "com.jarekcielecki.wydatki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1737450578-qp7pnrgvftrmo4rc3ht1qirnv8o86gao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9TL-13Z20X5TuMS_rZVCueftVT3dYMDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1737450578-qp7pnrgvftrmo4rc3ht1qirnv8o86gao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1737450578:android:8f039f9a4030c3732c6b8b",
+        "android_client_info": {
+          "package_name": "com.jaroslawcielecki.pizza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1737450578-qp7pnrgvftrmo4rc3ht1qirnv8o86gao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9TL-13Z20X5TuMS_rZVCueftVT3dYMDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1737450578-qp7pnrgvftrmo4rc3ht1qirnv8o86gao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
